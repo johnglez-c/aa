@@ -70,25 +70,8 @@ section {
     text-align: center;
 }
 
-.section-image {
-    width: 100%;
-    max-width: 800px;
-    margin: 1rem 0;
-}
-
 h2 {
     margin-bottom: 1.5rem;
-}
-
-.testimonials {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 2rem;
-}
-
-.testimonial-image {
-    margin: 1rem;
 }
 
 footer {
@@ -129,4 +112,3 @@ form button {
 form button:hover {
     background-color: #218838;
 }
-
